@@ -6,7 +6,7 @@ $( document ).ready(function() {
 $('#url').val(url);
 });
 
-console.log(url:"https://tsttec.blogspot.com/2020/02/test.html");
+console.log(url: "https://tsttec.blogspot.com/2020/02/test.html");
 // Bind to the submit event of our form
 $("#request-form").submit(function(event){
 
